@@ -21,7 +21,6 @@ Fit & Fine is a modern and responsive fitness web application designed to help u
 * 🎨 Clean and modern design
 
 ---
-
 ## 🛠️ Tech Stack
 
 * **React.js**
