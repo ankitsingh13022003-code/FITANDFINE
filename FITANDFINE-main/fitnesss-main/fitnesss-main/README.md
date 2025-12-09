@@ -6,11 +6,6 @@ Fit & Fine is a modern and responsive fitness web application designed to help u
 
 ---
 
-## 📸 Screenshots
-
-(Add your app screenshots here for better presentation)
-
----
 
 ## ✨ Features
 
