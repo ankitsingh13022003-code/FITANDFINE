@@ -62,7 +62,6 @@ Builds the app for production into the **build** folder.
 The production build is optimized and minified.
 
 ---
-
 ## 🌐 Deployment
 
 This project is deployed using **Netlify**.
